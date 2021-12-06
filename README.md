@@ -12,3 +12,8 @@
 - 📖 Open Source and Open Data
 - 🏛 Politics
 - 🌐 Learning languages (currently at least basics in: 🇩🇪🇬🇧🇫🇷🇳🇴🇪🇸🇳🇱🇸🇦)
+
+
+
+### Contact
+- Matrix: `@vollkorntomate:matrix.org`
