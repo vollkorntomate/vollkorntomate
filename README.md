@@ -16,4 +16,4 @@
 
 
 ### Contact
-- Matrix: `@t:vollkorntomate.de`
+- Matrix: [`@t:vollkorntomate.de`](https://matrix.to/#/@t:vollkorntomate.de)
