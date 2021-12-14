@@ -16,4 +16,4 @@
 
 
 ### Contact
-- Matrix: `@vollkorntomate:matrix.org`
+- Matrix: `@t:vollkorntomate.de`
