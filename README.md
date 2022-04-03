@@ -11,7 +11,7 @@
 - 📱 iOS Development
 - 📖 Open Source and Open Data
 - 🏛 Politics
-- 🌐 Learning languages (advanced/native: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇪🇸🇳🇱🇸🇦)
+- 🌐 Learning languages (advanced/native: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇪🇸🇳🇱🇸🇦🇺🇦)
 
 
 
