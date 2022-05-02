@@ -1,7 +1,7 @@
 ### About me 🍅
 
 - 🎓 Studying Informatics / Computer Science (Bachelor) at Technical University of Munich
-- 📝 Currently writing my Bachelor's thesis
+- 📝 Done writing my Bachelor's thesis
 
 
 
@@ -11,7 +11,7 @@
 - 📱 iOS Development
 - 📖 Open Source and Open Data
 - 🏛 Politics
-- 🌐 Learning languages (advanced/native: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇪🇸🇳🇱🇸🇦🇺🇦)
+- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇪🇸🇳🇱🇸🇦🇺🇦)
 
 
 
