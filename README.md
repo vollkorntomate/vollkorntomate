@@ -17,4 +17,4 @@
 
 ### Contact
 - Matrix: [`@t:vollkorntomate.de`](https://matrix.to/#/@t:vollkorntomate.de)
-- Mastodon: <a rel="me" href="https://mastodon.social/@vollkorntomate">`@vollkorntomate@mastodon.social`</a>
+- Mastodon: [`@vollkorntomate@mastodon.social`](https://mastodon.social/@vollkorntomate)
