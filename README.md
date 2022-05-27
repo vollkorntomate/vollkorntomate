@@ -1,7 +1,8 @@
 ### About me 🍅
 
-- 🎓 Studying Informatics / Computer Science (Bachelor) at Technical University of Munich
-- 📝 Done writing my Bachelor's thesis
+- 🎓 Bachelor of Science in Informatics / Computer Science (at Technical University of Munich)
+- 🏖 Currently enjoying life
+- 🏫 Applications for Master's degree out soon
 
 
 
