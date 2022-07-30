@@ -1,8 +1,8 @@
 ### About me 🍅
 
-- 🎓 Bachelor of Science in Informatics / Computer Science (at Technical University of Munich)
-- 🏖 Currently enjoying life
-- 🏫 Applications for Master's degree out soon
+- 🎓 Bachelor of Science in Informatics / Computer Science (from Technical University of Munich)
+- 💼 Currently doing an internship in embedded security
+- 👨‍🎓 Starting a Master's degree in IT Security in October
 
 
 
