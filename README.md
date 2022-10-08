@@ -1,8 +1,7 @@
 ### About me 🍅
 
+- 👨‍🎓 Currently studying IT Security (Master of Science) at the Technical University of Darmstadt
 - 🎓 Bachelor of Science in Informatics / Computer Science (from Technical University of Munich)
-- 💼 Currently doing an internship in embedded security
-- 👨‍🎓 Starting a Master's degree in IT Security in October
 
 
 
