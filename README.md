@@ -17,7 +17,7 @@
 
 ### Contact
 - Matrix: [`@t:vollkorntomate.de`](https://matrix.to/#/@t:vollkorntomate.de)
-- Mastodon: [`@vollkorntomate@fosstodon.org`](https://fosstodon.org/@vollkorntomate)
+- Mastodon: [`@vollkorntomate@infosec.exchange`](https://infosec.exchange/@vollkorntomate)
 - E-Mail: `thomas#vollkorntomate.de` (replace `#` with `@`)
   - PGP Key Fingerprint: `8003 4009 F358 2127 17F1 9AB3 8738 4A83 6B85 D103`
   - Download PGP Public Key from [vollkorntomate.de](https://vollkorntomate.de/files/pubkey.asc) or [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/80034009F358212717F19AB387384A836B85D103)
