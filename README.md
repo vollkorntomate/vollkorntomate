@@ -16,7 +16,7 @@
 
 
 ### Contact
-- Matrix: [`@t:vollkorntomate.de`](https://matrix.to/#/@t:vollkorntomate.de)
+- Matrix: [`@thomas:vollkorntomate.de`](https://matrix.to/#/@thomas:vollkorntomate.de)
 - Mastodon: [`@vollkorntomate@infosec.exchange`](https://infosec.exchange/@vollkorntomate)
 - E-Mail: `thomas#vollkorntomate.de` (replace `#` with `@`)
   - PGP Key Fingerprint: `36FB 1BAD EB61 C446 9C37 5E91 3289 CE3A 5D05 7650`
