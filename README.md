@@ -1,7 +1,7 @@
 ### About me 🍅
 
-- 👨‍🎓 Currently studying IT Security (Master of Science) at the Technical University of Darmstadt
-- 🎓 Bachelor of Science in Informatics / Computer Science (from Technical University of Munich)
+- 👨‍🎓 Ongoing: M.Sc. IT Security @ Technical University of Darmstadt
+- 🎓 Done: B.Sc. Informatics / Computer Science @ Technical University of Munich
 
 
 
@@ -11,7 +11,7 @@
 - 📱 iOS Development
 - 📖 Open Source and Open Data
 - 🏛 Politics
-- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇳🇱🇺🇦🇪🇸🇸🇦)
+- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇳🇱🇺🇦🇮🇹🇪🇸🇸🇦)
 
 
 
