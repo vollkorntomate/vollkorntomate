@@ -7,11 +7,11 @@
 
 ### Interests
 
-- 🔐 IT Security
+- 🔐 Cybersecurity
 - 📱 iOS Development
 - 📖 Open Source and Open Data
 - 🏛 Politics
-- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇳🇱🇺🇦🇮🇹🇪🇸🇸🇦)
+- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷, basics: 🇳🇱🇮🇸🇺🇦🇮🇹🇪🇸🇸🇦)
 
 
 
