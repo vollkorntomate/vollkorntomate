@@ -1,17 +1,18 @@
 ### About me 🍅
 
-- 👨‍🎓 Ongoing: M.Sc. IT Security @ Technical University of Darmstadt
-- 🎓 Done: B.Sc. Informatics / Computer Science @ Technical University of Munich
+- 💼 Full-time Penetration Tester
+- 👨‍🎓 M.Sc. IT Security @ Technical University of Darmstadt
+- 🎓 B.Sc. Informatics / Computer Science @ Technical University of Munich
 
 
 
 ### Interests
 
 - 🔐 Cybersecurity
-- 📱 iOS Development
+- 💻 Programming
 - 📖 Open Source and Open Data
 - 🏛 Politics
-- 🌐 Learning languages (native/advanced: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷🇮🇸, basics: 🇳🇱🇺🇦🇮🇹🇪🇸🇸🇦)
+- 🌐 Learning languages (native/fluent: 🇩🇪🇬🇧, intermediate: 🇳🇴🇫🇷🇮🇸, basics: 🇳🇱🇺🇦🇮🇹🇪🇸🇸🇦)
 
 
 
